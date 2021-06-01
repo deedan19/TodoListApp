@@ -1,11 +1,15 @@
 # TodoListApp
 
-#### Todo List app with CRUD
+#### Todo List app with Realm CRUD
 
 # Language
 - Swift 5
 # Tools
 - Xcode 9.3 compatible
+
+# Framework and Libraries
+- Realm 
+- RealmSwift
 # Deployment info
 - iOS 14.5
 # Target Device
